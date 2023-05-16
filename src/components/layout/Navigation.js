@@ -6,7 +6,7 @@ const Navigation = () => {
   return (
     <nav>
       <NavLink
-        to="/HRNet_WealthHealth"
+        to="/hrnet"
         className={(nav) => (nav.isActive ? "nav-active" : "")}
       >
         Create Employee

@@ -4,7 +4,7 @@ import ErrorPage from "../components/pages/ErrorPage";
 
 const routes = [
   {
-    path: "/HRNet_WealthHealth",
+    path: "/hrnet",
     element: <CreateEmployee />,
     exact: true,
   },
