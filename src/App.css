@@ -1,38 +1,26 @@
-.App {
-  text-align: center;
+input:active {
+  border: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: #141b2d;
+  font-family: Tahoma, sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+main {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-image: url("./img/church.jpg");
+  margin: 5rem;
+  height: 70vh;
+  border-radius: 20px;
+  color: #fff;
 }
 
-.App-link {
-  color: #61dafb;
+aside {
+  width: 33%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.registerForm {
+  width: 67%;
+  background-color: #282c45;
 }
