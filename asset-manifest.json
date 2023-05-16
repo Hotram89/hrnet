@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hrnet/static/css/main.a8d4acfa.css",
+    "main.js": "/hrnet/static/js/main.7f646f99.js",
+    "static/media/church.jpg": "/hrnet/static/media/church.442abed91ec17ac37e2f.jpg",
+    "static/media/logo_wealth.png": "/hrnet/static/media/logo_wealth.ea00a318e7136c54b617.png",
+    "index.html": "/hrnet/index.html",
+    "static/media/caret.svg": "/hrnet/static/media/caret.85316056b818af49ac164e28336a4a7e.svg",
+    "main.a8d4acfa.css.map": "/hrnet/static/css/main.a8d4acfa.css.map",
+    "main.7f646f99.js.map": "/hrnet/static/js/main.7f646f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8d4acfa.css",
+    "static/js/main.7f646f99.js"
+  ]
+}
